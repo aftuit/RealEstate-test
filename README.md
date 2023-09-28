@@ -1,10 +1,10 @@
 # RealEstate Project in React.js
 
 # DEMO 
-Checkout the [Demo RealEstate](https://netlify) for more information.
+Checkout the [Demo RealEstate](https://realestate-test-aktamov.netlify.app/users).
 
 # Contact
-[Telegram](https://t.me/Farrux_Aktamov).
+[Telegram Account](https://t.me/Farrux_Aktamov).
 
 About:
 
